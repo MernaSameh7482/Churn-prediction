@@ -8,16 +8,13 @@ This project aims to predict customer churn using various machine learning model
 - [Data Preprocessing](#data-preprocessing)
 - [Models Used](#models-used)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Customer churn is a critical issue for many businesses. This project explores multiple machine learning models to predict churn and identify the key factors that influence customer retention.
 
 ## Dataset
-The dataset used in this project is obtained from (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)] 
+The dataset used in this project is obtained from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
 ## Data Preprocessing
 - Initial Data Inspection
